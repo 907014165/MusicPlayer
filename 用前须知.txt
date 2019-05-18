@@ -1,0 +1,6 @@
+npm install
+下载包后 终端输入
+gulp 
+然后 在localhost:8090打开项目
+
+移动端页面

@@ -1,0 +1,29 @@
+[
+    {
+        "album":"意外",
+        "audio":"/source/song_1.mp3",
+        "duration":253,
+        "image":"/source/song_1.jpg",
+        "islike":true,
+        "singer":"薛之谦",
+        "song":"丑八怪"
+    },
+    {
+        "album":"小梦大半",
+        "audio":"/source/song_2.mp3",
+        "duration":297,
+        "image":"/source/song_2.jpg",
+        "islike":false,
+        "singer":"陈粒",
+        "song":"小半"
+    },
+    {
+        "album":"+",
+        "audio":"/source/song_3.mp3",
+        "duration":235,
+        "image":"/source/song_3.jpg",
+        "islike":false,
+        "singer":"涣爷",
+        "song":"Shape of lyou"
+    }
+]
